@@ -1,0 +1,10 @@
+setup.py
+Ex47.egg-info/PKG-INFO
+Ex47.egg-info/SOURCES.txt
+Ex47.egg-info/dependency_links.txt
+Ex47.egg-info/requires.txt
+Ex47.egg-info/top_level.txt
+ex47/__init__.py
+ex47/game.py
+tests/__init__.py
+tests/ex47_tests.py
